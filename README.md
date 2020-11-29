@@ -3,7 +3,7 @@
 - Languages: We teach HTML, CSS, and Javascript.
 - Frameworks: React, Node.
 - Database technologies: Either MongoDB or SQL.
-- Editor: We recommend VS Code.
+- Text Editor: We recommend VS Code.
 - Source Control: Git, Github, and Github Desktop.
 
 # People
