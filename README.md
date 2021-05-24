@@ -10,7 +10,8 @@
 
 There are loads of people who make Code Your Future but, we couldn't name them all here!
 
-One of the things that makes Code Your Future special compared to other similar organisations is that we have an amazing PD team. Special shout-out to Anisa, Candy, Ben, Beth, Edward, Usman, and all of our other PD team members!
+Things that makes Code Your Future special compared to other similar organisations are that we have an amazing PD team. Special shout-out to Anisa, Candy, Ben, Beth, Edward, Usman, and all of our other PD team members!
+CYF is like family where people, trainee, mentor and volunteers work tother, collaborate and learn from each others.
 
 # Contact
 
