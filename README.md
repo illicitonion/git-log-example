@@ -19,4 +19,4 @@ Contact
 
 If you want to contact us, you can send an email to contact@codeyourfuture.io
 
-ps: We will help you to become a developer!
+ps: We will help you to become a developer! Please, write beautiful commits message.
